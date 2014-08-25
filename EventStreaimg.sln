@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoContext", "MongoHandler\MongoContext.csproj", "{FFABCEC4-F01E-4081-8ED3-CB3DAD4D70E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoEventStreaming", "MongoEventStreaming\MongoEventStreaming.csproj", "{AC8E533C-56BF-410D-800C-FB2E4CCE7D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{7A13B777-551F-4A1B-AC07-A0FC76D18AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFABCEC4-F01E-4081-8ED3-CB3DAD4D70E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFABCEC4-F01E-4081-8ED3-CB3DAD4D70E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFABCEC4-F01E-4081-8ED3-CB3DAD4D70E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFABCEC4-F01E-4081-8ED3-CB3DAD4D70E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8E533C-56BF-410D-800C-FB2E4CCE7D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8E533C-56BF-410D-800C-FB2E4CCE7D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8E533C-56BF-410D-800C-FB2E4CCE7D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8E533C-56BF-410D-800C-FB2E4CCE7D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A13B777-551F-4A1B-AC07-A0FC76D18AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A13B777-551F-4A1B-AC07-A0FC76D18AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A13B777-551F-4A1B-AC07-A0FC76D18AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A13B777-551F-4A1B-AC07-A0FC76D18AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
